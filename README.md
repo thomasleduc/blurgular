@@ -15,7 +15,7 @@ Include it after angular.js and before your controller. But we strongly recomman
 <head>
    <scirpt src="angular.js"></script>
    <script src="blurgular.js"></script>
-   <script src=""
+   <script src="awesomecontroller.js"></script>
 </head>
 <body>
      <div ng-controller="AwesomeController">
